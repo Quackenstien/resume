@@ -1,0 +1,59 @@
+.name {
+  font-size: 50px;
+}
+
+.city {
+  font-size: 25px;
+}
+
+.link-info-number {
+  font-size: 25px;
+}
+
+.summary {
+  font-size: 18px;
+  font-weight: bold;
+}
+.summary-text {
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.tech-skills {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.tech-skills-text {
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.projects {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.weather {
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.next {
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+body {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+div {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.degree {
+  font-size: 25px;
+}
